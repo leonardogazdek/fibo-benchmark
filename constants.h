@@ -1,0 +1,5 @@
+#pragma once
+
+#define RECURSIVE_ITERATIONS           45
+#define ITERATIVE_ITERATIONS           20000
+#define ITERATIVE_MEMOIZED_ITERATIONS  20000
